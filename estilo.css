@@ -1,0 +1,64 @@
+*{
+	font-family: 'Noto Sans', cursive;
+	font-weight: 50px;
+	font-size: 30px;
+}
+h2{
+	background-color: rgb(43, 226, 141);
+	display: inline-block;
+	padding: 100px;
+	box-sizing: border-box;
+	text-align: center;
+	margin: 20px 10px;
+	border-radius: 2em;
+	border: 4px solid blue;
+	line-height: 50px;
+	box-shadow: 2px 4px 10px black;
+	transform: rotate(-45deg);
+
+}
+
+.navbar
+{
+
+background-color: darkkhaki;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
